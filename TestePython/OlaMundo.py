@@ -6,4 +6,3 @@ if x == 'Bem':
     print('Quem bom que está bem!')
 
 print(x)
-
